@@ -1,2 +1,2 @@
-
 {"error":{"message":"An unexpected error has occurred. Please retry your request later.","type":"OAuthException","is_transient":true,"code":2,"fbtrace_id":"Aa1K9bUXzv1_kqiycChbs26"}}
+{"error":{"message":"Calls to this api have exceeded the rate limit.","type":"OAuthException","code":613,"error_data":{"auth_secure_device_id":"von3Yy4h-w5LNP2GNaxBEWax"},"error_subcode":3362001,"is_transient":false,"error_user_title":"You can't log in right now","error_user_msg":"To help keep your account safe, we temporarily locked it. Before you try logging in again, check your login info and make sure you're using your usual device on a secure network.","fbtrace_id":"AyL6TD_-kmVajWGZT-BVdq5"}}
